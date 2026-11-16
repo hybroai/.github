@@ -13,11 +13,11 @@
   </p>
 
   <p>
-    <a href="https://hybro.ai"><img src="https://img.shields.io/badge/Website-hybro.ai-111111?style=for-the-badge" alt="Website"></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=for-the-badge" alt="License"></a>
-    <a href="https://discord.gg/2S5pCKzUmJ"><img src="https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
-    <a href="https://x.com/HybroAI"><img src="https://img.shields.io/badge/X-HybroAI-000000?logo=x&logoColor=white&style=for-the-badge" alt="X"></a>
-    <a href="https://www.linkedin.com/company/hybroai"><img src="https://img.shields.io/badge/LinkedIn-HybroAI-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+    <a href="https://hybro.ai"><img src="https://img.shields.io/badge/hybro.ai-111111?style=for-the-badge" alt="hybro.ai"></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/Apache%202.0-orange?style=for-the-badge" alt="Apache 2.0"></a>
+    <a href="https://discord.gg/2S5pCKzUmJ"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+    <a href="https://x.com/HybroAI"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X"></a>
+    <a href="https://www.linkedin.com/company/hybroai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
   </p>
 </div>
 
