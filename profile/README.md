@@ -26,9 +26,9 @@
 
 ## What is Hybro?
 
-Hybro is open-source interoperability infrastructure for AI agents. It lets local and remote agents communicate, collaborate, and execute multi-step work over the [Agent2Agent (A2A) protocol](https://a2a-protocol.org/), while you authorize, inspect, and record what runs.
+Hybro is an open interoperability infrastructure for AI agents and robots. It lets AI agents and robots communicate, collaborate, and execute multi-step work over the [Agent2Agent (A2A) protocol](https://a2a-protocol.org/), while you authorize, inspect, and record what runs.
 
-Think of Hybro as a **self-hosted control plane** for agent collaboration: sources decide the steps; Hybro runs, gates, and records them.
+Think of Hybro as a **self-hosted control plane** for agent and robot collaboration: sources decide the steps; Hybro runs, gates, and records them.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hybroai/hybro/main/assets/screenshots/chat-demo.gif" alt="Hybro room chat coordinating multiple agents" width="760">
@@ -75,7 +75,6 @@ Docs: [a2a-adapter README](https://github.com/hybroai/a2a-adapter).
 - **[hybro](https://github.com/hybroai/hybro)** — Open interoperability platform for AI agents: rooms, streaming, MCP, and one-container deploy.
 - **[a2a-adapter](https://github.com/hybroai/a2a-adapter)** — SDK + CLI to serve LangGraph, LangChain, CrewAI, n8n, Claude Code, Codex, Pi, OpenClaw, and more as A2A servers.
 - **[a2a-robots](https://github.com/hybroai/a2a-robots)** — A2A adapters for robots.
-- **[a2a-agent-inspector](https://github.com/hybroai/a2a-agent-inspector)** — Tools for inspecting A2A agent cards and behavior.
 - **[hybro-hub](https://github.com/hybroai/hybro-hub)** — Earlier hub for local and remote agent connectivity.
 
 ## Community
